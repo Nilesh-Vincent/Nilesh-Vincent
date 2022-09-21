@@ -1,7 +1,13 @@
+<h1 align="center">Hi 👋, I'm Nilesh Vincent</h1>
 <h3 align="center">A passionate entry level Full-Stack developer from Sri Lanka</h3>
+
+- 💬 Ask me about **React, NodeJS**
+
+- 📫 How to reach me **nileshvincent@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nilesh-vincent-1036a1196" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nilesh-vincent-1036a1196" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -12,3 +18,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nilesh-vincent&show_icons=true&locale=en" alt="nilesh-vincent" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nilesh-vincent&" alt="nilesh-vincent" /></p>
+
