@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Vincent</h1>
-<h3 align="center">A passionate entry level Full-Stack developer from Sri Lanka</h3>
+<h3 align="center">A passionate full-stack software engineer from Sri Lanka</h3>
 
 - 💬 Ask me about **React, NodeJS**
 
